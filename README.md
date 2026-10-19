@@ -29,6 +29,13 @@ The analysis focuses on the ten highest-volume scorers identified by total point
 - Home/away scoring differences varied substantially by player rather than showing one consistent group-wide effect.
 - Monthly scoring trends varied by player, while overall scoring across the group generally declined later in the season.
 
+## Images
+- ![Highest Volume Scorers](screenshots/Volume.jpeg)
+- ![True Shooting Analysis](screenshots/True_Shooting.jpeg)
+- ![Scoring Consistency](screenshots/Consistency.jpeg)
+
+
+
 ## Overview
 This project analyzes game-level NBA player data in Microsoft Excel to evaluate scoring volume, efficiency, consistency, home/away performance, and changes in scoring throughout the season.
 
