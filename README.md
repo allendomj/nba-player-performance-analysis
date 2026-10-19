@@ -69,4 +69,4 @@ The Excel workbook contains:
 [Download/View the Excel workbook](./NBA_Player_Performance_Analysis.xlsx)
 
 ## Data Source
-- [NBA Player Stats – 2025–26 Season (Kaggle)](https://www.kaggle.com/datasets/eduardopalmeiri/nba-player-stats-season-2526](https://www.kaggle.com/datasets/eduardopalmieri/nba-player-stats-season-2526))
+- [NBA Player Stats – 2025–26 Season (Kaggle)](https://www.kaggle.com/datasets/eduardopalmieri/nba-player-stats-season-2526)
