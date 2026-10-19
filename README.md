@@ -22,60 +22,37 @@ The analysis focuses on the ten highest-volume scorers identified by total point
 - Data filtering and aggregation
 - Bar, scatter, and line charts
 
-## Key Findings
-- Luka Dončić led the group in total scoring volume and PPG.
-- Nikola Jokić recorded the highest True Shooting Percentage among the top-volume scorers, while Shai Gilgeous-Alexander combined similarly high efficiency with greater scoring volume.
-- Kevin Durant had the lowest game-to-game scoring standard deviation among the selected players.
-- Home/away scoring differences varied substantially by player rather than showing one consistent group-wide effect.
-- Monthly scoring trends varied by player, while overall scoring across the group generally declined later in the season.
+## Analysis
 
-## Images
-- ![Highest Volume Scorers](screenshots/Volume.jpeg)
-- ![True Shooting Analysis](screenshots/True_Shooting.jpeg)
-- ![Scoring Consistency](screenshots/Consistency.jpeg)
+### 1. Highest-Volume Scorers
 
+Luka Dončić led the selected players in both total scoring volume and points per game.
 
+![Highest Volume Scorers](screenshots/Volume.jpeg)
 
-## Overview
-This project analyzes game-level NBA player data in Microsoft Excel to evaluate scoring volume, efficiency, consistency, home/away performance, and changes in scoring throughout the season.
+### 2. Scoring Efficiency
 
-The analysis focuses on the ten highest-volume scorers identified by total points and follows the same player cohort throughout the project.
+Nikola Jokić recorded the highest TS% among the top-volume scorers, while Shai Gilgeous-Alexander combined similarly strong efficiency with greater scoring volume.
 
-## Questions
-1. Who are the highest-volume scorers?
-2. Which high-volume scorers are most efficient?
-3. Which high-volume scorers are most consistent?
-4. How does scoring performance differ between home and away games?
-5. How does scoring performance change throughout the season?
+![True Shooting Analysis](screenshots/True_Shooting.jpeg)
 
-## Tools & Techniques
-- Microsoft Excel
-- PivotTables and PivotCharts
-- Slicers
-- Calculated metrics
-- True Shooting Percentage (TS%)
-- Standard deviation
-- Data filtering and aggregation
-- Bar, scatter, and line charts
+### 3. Scoring Consistency
 
-## Key Findings
-- Luka Dončić led the group in total scoring volume and PPG.
-- Nikola Jokić recorded the highest True Shooting Percentage among the top-volume scorers, while Shai Gilgeous-Alexander combined similarly high efficiency with greater scoring volume.
-- Kevin Durant had the lowest game-to-game scoring standard deviation among the selected players.
-- Home/away scoring differences varied substantially by player rather than showing one consistent group-wide effect.
-- Monthly scoring trends varied by player, while overall scoring across the group generally declined later in the season.
-- ![Consistency Analysis](images/Consistency.jpeg)
-- ![True Shooting % Analysis](images/True_Shooting.jpeg)
-- ![Volume Analysis](images/Volume.jpeg)
+Kevin Durant recorded the lowest game-to-game scoring standard deviation among the selected players.
 
-## Workbook
-The Excel workbook contains:
-- Raw game-level data
-- Highest Volume Scorers
-- Most Efficient Scorers
-- Most Consistent Scorers
-- Home vs Away Performance
-- Monthly Scoring Trends
+![Scoring Consistency](screenshots/Consistency.jpeg)
+
+### 4. Home vs Away Performance
+
+Home/away effects varied substantially by player rather than showing one consistent group-wide advantage.
+
+![Home vs Away Performance](screenshots/Home_Away.jpeg)
+
+### 5. Monthly Scoring Trends
+
+Scoring changed throughout the season, with different players showing different month-to-month patterns.
+
+![Monthly Scoring Trends](screenshots/Monthly_Trends.jpeg)
 
 ## Workbook
 The Excel workbook contains:
