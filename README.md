@@ -66,7 +66,11 @@ The Excel workbook contains:
 - Home vs Away Performance
 - Monthly Scoring Trends
 
-[Download/View the Excel workbook](./NBA_Player_Performance_Analysis.xlsx)
+The complete Excel workbook contains the raw game-level data, PivotTables, calculated metrics, charts, and interactive slicers.
+
+[Download the Excel workbook](./NBA_Player_Performance_Analysis.xlsx)
+
+> Note: The workbook may be too large for GitHub's online preview and is intended to be downloaded and opened in Microsoft Excel.
 
 ## Data Source
 - [NBA Player Stats – 2025–26 Season (Kaggle)](https://www.kaggle.com/datasets/eduardopalmieri/nba-player-stats-season-2526)
