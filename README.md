@@ -58,9 +58,9 @@ The analysis focuses on the ten highest-volume scorers identified by total point
 - Kevin Durant had the lowest game-to-game scoring standard deviation among the selected players.
 - Home/away scoring differences varied substantially by player rather than showing one consistent group-wide effect.
 - Monthly scoring trends varied by player, while overall scoring across the group generally declined later in the season.
-- ![Efficiency Analysis](images/efficiency_analysis.png)
-- ![Efficiency Analysis](images/efficiency_analysis.png)
-- ![Efficiency Analysis](images/efficiency_analysis.png)
+- ![Consistency Analysis](images/Consistency.jpeg)
+- ![True Shooting % Analysis](images/True_Shooting.jpeg)
+- ![Volume Analysis](images/Volume.jpeg)
 
 ## Workbook
 The Excel workbook contains:
