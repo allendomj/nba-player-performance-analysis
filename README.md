@@ -1,4 +1,4 @@
-# NBA Player Performance & Efficiency Analysis
+# 2025-2026 NBA Player Performance & Efficiency Analysis
 
 ## Overview
 This project analyzes game-level NBA player data in Microsoft Excel to evaluate scoring volume, efficiency, consistency, home/away performance, and changes in scoring throughout the season.
@@ -11,6 +11,9 @@ The analysis focuses on the ten highest-volume scorers identified by total point
 3. Which high-volume scorers are most consistent?
 4. How does scoring performance differ between home and away games?
 5. How does scoring performance change throughout the season?
+
+## Methodology
+- Question 1 identified the top 10 players by total points. Questions 2–5 then used this fixed cohort to compare scoring efficiency, consistency, home/away performance, and monthly scoring trends.
 
 ## Tools & Techniques
 - Microsoft Excel
@@ -64,3 +67,6 @@ The Excel workbook contains:
 - Monthly Scoring Trends
 
 [Download/View the Excel workbook](./NBA_Player_Performance_Analysis.xlsx)
+
+## Data Source
+- [NBA Player Stats – 2025–26 Season (Kaggle)](https://www.kaggle.com/datasets/eduardopalmeiri/nba-player-stats-season-2526)
